@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/OpenHackNovember/ff8ef51d-a0d7-4615-9b94-0ebd982dd9fa/f9e509d7-071f-4912-ad98-390c7314daf0/_apis/work/boardbadge/dac03a18-ef1b-457b-858f-8e42db9f180d)](https://dev.azure.com/OpenHackNovember/ff8ef51d-a0d7-4615-9b94-0ebd982dd9fa/_boards/board/t/f9e509d7-071f-4912-ad98-390c7314daf0/Microsoft.RequirementCategory)
 ---
 page_type: sample
 languages:
